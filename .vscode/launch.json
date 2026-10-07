@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Swappy iOS Simulator (local)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "preLaunchTask": "Ensure Swappy local API",
+      "postDebugTask": "Stop Swappy local API",
+      "toolArgs": [
+        "--dart-define",
+        "SWAPPY_API_BASE_URL=http://127.0.0.1:3100"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "appTitle": "Swappy",
+  "languageTitle": "Language",
+  "languageDescription": "Choose the language used by Swappy on this device.",
+  "languageSystem": "Use device language",
+  "languageSystemDescription": "Use a supported language from your device settings.",
+  "languageAvailableTitle": "Available now",
+  "languageLimitedDescription": "Swappy currently provides approved product and legal copy in English. More languages will appear after their translations are reviewed.",
+  "languageSaveError": "Your language preference could not be saved. Try again.",
+  "languageRestoreError": "Your saved language could not be restored.",
+  "languageUnavailableError": "That language is not available in this app version.",
+  "languageSettingsHint": "Language and regional formatting",
+  "retry": "Retry",
+  "close": "Close"
+}

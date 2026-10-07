@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Ensure Swappy local API",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/ensure_local_api.sh",
+      "problemMatcher": []
+    },
+    {
+      "label": "Stop Swappy local API",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/stop_local_api.sh",
+      "problemMatcher": []
+    }
+  ]
+}
